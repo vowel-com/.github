@@ -6,6 +6,7 @@
 - [ ] Bug fix (non-breaking change that fixes an issue)
 - [ ] New feature (non-breaking change that adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a documentation update
 
 ## Related issues
 
@@ -25,3 +26,7 @@
 - [ ] "Ready for review" label attached to the PR and reviewers mentioned in a comment
 - [ ] Changes have been reviewed by at least one other engineer
 - [ ] Issue from task tracker has a link to this pull request 
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
